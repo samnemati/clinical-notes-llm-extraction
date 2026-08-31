@@ -1,8 +1,7 @@
 """ 1: generate the synthetic corpus.
 
 Writes data/notes.json (the note texts) and data/gold.json (the correct
-answers for every note). Both files are committed to the repo, so every
-later step starts from the exact same corpus.
+answers for every note).
 """
 
 import sys
