@@ -1,0 +1,10322 @@
+[
+ {
+  "note_id": "note_0000",
+  "age": 47,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 42,
+  "a1c": 10.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0001",
+  "age": 37,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 56,
+  "a1c": 6.6,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0002",
+  "age": 63,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 56,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0003",
+  "age": 39,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": 10.9,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0004",
+  "age": 61,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 42,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0005",
+  "age": 70,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0006",
+  "age": 88,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0007",
+  "age": 38,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 90,
+  "a1c": 8.4,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0008",
+  "age": 77,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 180,
+  "a1c": 6.7,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0009",
+  "age": 66,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 28,
+  "a1c": 11.5,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0010",
+  "age": 51,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0011",
+  "age": 78,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": 9.3,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0012",
+  "age": 55,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0013",
+  "age": 51,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0014",
+  "age": 74,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0015",
+  "age": 54,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0016",
+  "age": 76,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 7,
+  "a1c": 10.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0017",
+  "age": 39,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 24,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 180,
+  "a1c": 10.5,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0018",
+  "age": 58,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0019",
+  "age": 46,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 180,
+  "a1c": 6.6,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0020",
+  "age": 53,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": 9.8,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0021",
+  "age": 58,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 60,
+  "a1c": 9.7,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0022",
+  "age": 45,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 56,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0023",
+  "age": 58,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 30,
+  "a1c": 11.2,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0024",
+  "age": 43,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": 9.0,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0025",
+  "age": 87,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 180,
+  "a1c": 10.2,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0026",
+  "age": 65,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0027",
+  "age": 66,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0028",
+  "age": 76,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0029",
+  "age": 63,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 60,
+  "a1c": 8.6,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0030",
+  "age": 71,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 90,
+  "a1c": 9.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0031",
+  "age": 72,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": 6.4,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0032",
+  "age": 72,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0033",
+  "age": 69,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0034",
+  "age": 78,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0035",
+  "age": 67,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0036",
+  "age": 47,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 7,
+  "a1c": 11.1,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0037",
+  "age": 40,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": 6.9,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0038",
+  "age": 70,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0039",
+  "age": 65,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0040",
+  "age": 77,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 24,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 28,
+  "a1c": 9.8,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0041",
+  "age": 55,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0042",
+  "age": 52,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0043",
+  "age": 79,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 14,
+  "a1c": 10.7,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0044",
+  "age": 73,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0045",
+  "age": 84,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0046",
+  "age": 65,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": 5.8,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0047",
+  "age": 63,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0048",
+  "age": 71,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": 6.1,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0049",
+  "age": 59,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0050",
+  "age": 72,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0051",
+  "age": 56,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0052",
+  "age": 86,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 7,
+  "a1c": 8.4,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0053",
+  "age": 73,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0054",
+  "age": 69,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": 11.1,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0055",
+  "age": 84,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0056",
+  "age": 85,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0057",
+  "age": 72,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0058",
+  "age": 35,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 90,
+  "a1c": 7.3,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0059",
+  "age": 83,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0060",
+  "age": 46,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": 9.9,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0061",
+  "age": 65,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0062",
+  "age": 57,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0063",
+  "age": 65,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 180,
+  "a1c": null,
+  "phenomena": [
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0064",
+  "age": 56,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 90,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0065",
+  "age": 39,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": 6.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0066",
+  "age": 46,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0067",
+  "age": 77,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": 8.2,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0068",
+  "age": 41,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 42,
+  "a1c": 10.3,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0069",
+  "age": 68,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0070",
+  "age": 44,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 90,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0071",
+  "age": 37,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 42,
+  "a1c": 8.1,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0072",
+  "age": 48,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": 7.8,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0073",
+  "age": 42,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 60,
+  "a1c": 9.0,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0074",
+  "age": 39,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": 6.3,
+  "phenomena": [
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0075",
+  "age": 87,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0076",
+  "age": 81,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": 10.8,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0077",
+  "age": 42,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0078",
+  "age": 57,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 42,
+  "a1c": 5.4,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0079",
+  "age": 63,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 42,
+  "a1c": 6.1,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0080",
+  "age": 85,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 56,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0081",
+  "age": 73,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0082",
+  "age": 53,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 42,
+  "a1c": 7.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0083",
+  "age": 54,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0084",
+  "age": 87,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0085",
+  "age": 36,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0086",
+  "age": 50,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 24,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 42,
+  "a1c": 9.2,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0087",
+  "age": 65,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 14,
+  "a1c": 9.6,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0088",
+  "age": 67,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 180,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0089",
+  "age": 87,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 90,
+  "a1c": 8.7,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0090",
+  "age": 39,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 180,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0091",
+  "age": 85,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 56,
+  "a1c": null,
+  "phenomena": [
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0092",
+  "age": 77,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 90,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0093",
+  "age": 86,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0094",
+  "age": 69,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 42,
+  "a1c": 6.3,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0095",
+  "age": 79,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0096",
+  "age": 67,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0097",
+  "age": 64,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0098",
+  "age": 82,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0099",
+  "age": 41,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": 10.9,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0100",
+  "age": 37,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": 10.4,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0101",
+  "age": 65,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0102",
+  "age": 68,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 180,
+  "a1c": 9.9,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0103",
+  "age": 37,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0104",
+  "age": 83,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0105",
+  "age": 45,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 7,
+  "a1c": 7.6,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0106",
+  "age": 76,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 90,
+  "a1c": 8.6,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0107",
+  "age": 78,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": 8.1,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0108",
+  "age": 44,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 180,
+  "a1c": 6.2,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "misspelling",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0109",
+  "age": 62,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0110",
+  "age": 67,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 180,
+  "a1c": 9.9,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0111",
+  "age": 80,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0112",
+  "age": 54,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 90,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0113",
+  "age": 70,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": 9.0,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0114",
+  "age": 67,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": 9.1,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0115",
+  "age": 66,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": 9.2,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0116",
+  "age": 75,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0117",
+  "age": 39,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0118",
+  "age": 84,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0119",
+  "age": 45,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0120",
+  "age": 66,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": 5.5,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0121",
+  "age": 51,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": 7.1,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0122",
+  "age": 39,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": 8.1,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0123",
+  "age": 68,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 500,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 14,
+  "a1c": 8.3,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "misspelling",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0124",
+  "age": 56,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 75,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": 7.0,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0125",
+  "age": 36,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 42,
+  "a1c": 8.8,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0126",
+  "age": 69,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 56,
+  "a1c": 11.1,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0127",
+  "age": 77,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 90,
+  "a1c": 8.9,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0128",
+  "age": 36,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0129",
+  "age": 86,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0130",
+  "age": 41,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0131",
+  "age": 69,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 90,
+  "a1c": null,
+  "phenomena": [
+   "discontinued_med",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0132",
+  "age": 69,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0133",
+  "age": 60,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 30,
+  "a1c": 9.6,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0134",
+  "age": 69,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "osteoarthritis",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "acetaminophen",
+    "dose": 500,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "atorvastatin",
+    "dose": 80,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0135",
+  "age": 68,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 60,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0136",
+  "age": 50,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 18,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 100,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 14,
+  "a1c": 8.2,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0137",
+  "age": 55,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 50,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 25,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 10,
+  "a1c": 8.0,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0138",
+  "age": 84,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 60,
+  "a1c": 5.5,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0139",
+  "age": 71,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "suspected"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "albuterol",
+    "dose": 90,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "amlodipine",
+    "dose": 5,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 10,
+  "a1c": 7.0,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0140",
+  "age": 83,
+  "sex": "F",
+  "conditions": [
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 14,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0141",
+  "age": 56,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 1000,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 28,
+  "a1c": 5.9,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0142",
+  "age": 37,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 10,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0143",
+  "age": 56,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "deep vein thrombosis",
+    "status": "historical"
+   },
+   {
+    "name": "depression",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "peripheral neuropathy",
+    "status": "suspected"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "furosemide",
+    "dose": 40,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "sertraline",
+    "dose": 50,
+    "unit": "mg",
+    "status": "discontinued"
+   }
+  ],
+  "smoking_status": "former",
+  "follow_up_days": 7,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": true
+ },
+ {
+  "note_id": "note_0144",
+  "age": 37,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "breast cancer",
+    "status": "historical"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   },
+   {
+    "name": "obstructive sleep apnea",
+    "status": "suspected"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "active"
+   },
+   {
+    "name": "type 2 diabetes",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "insulin glargine",
+    "dose": 12,
+    "unit": "units",
+    "status": "active"
+   },
+   {
+    "name": "metformin",
+    "dose": 850,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "unknown",
+  "follow_up_days": 7,
+  "a1c": 8.3,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "misspelling",
+   "negation",
+   "no_smoking_mention"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0145",
+  "age": 53,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "negated"
+   },
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "negated"
+   },
+   {
+    "name": "pneumonia",
+    "status": "active"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "tiotropium",
+    "dose": 18,
+    "unit": "mcg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0146",
+  "age": 75,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "COPD",
+    "status": "suspected"
+   },
+   {
+    "name": "GERD",
+    "status": "active"
+   },
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "fever",
+    "status": "negated"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "myocardial infarction",
+    "status": "historical"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "discontinued"
+   },
+   {
+    "name": "omeprazole",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": 8.9,
+  "phenomena": [
+   "discontinued_med",
+   "family_history_distractor",
+   "hedged_dx",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0147",
+  "age": 45,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "chronic kidney disease",
+    "status": "active"
+   },
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hyperlipidemia",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "historical"
+   },
+   {
+    "name": "shortness of breath",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "atorvastatin",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "furosemide",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "current",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "historical",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0148",
+  "age": 64,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "asthma",
+    "status": "active"
+   },
+   {
+    "name": "atrial fibrillation",
+    "status": "active"
+   },
+   {
+    "name": "chest pain",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "hypothyroidism",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "apixaban",
+    "dose": 5,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 600,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "levothyroxine",
+    "dose": 100,
+    "unit": "mcg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "metoprolol succinate",
+    "dose": 50,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 30,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ },
+ {
+  "note_id": "note_0149",
+  "age": 77,
+  "sex": "M",
+  "conditions": [
+   {
+    "name": "heart failure",
+    "status": "active"
+   },
+   {
+    "name": "hypertension",
+    "status": "active"
+   },
+   {
+    "name": "lower extremity edema",
+    "status": "active"
+   },
+   {
+    "name": "palpitations",
+    "status": "active"
+   },
+   {
+    "name": "pneumonia",
+    "status": "negated"
+   }
+  ],
+  "medications": [
+   {
+    "name": "amlodipine",
+    "dose": 10,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "gabapentin",
+    "dose": 300,
+    "unit": "mg",
+    "status": "active"
+   },
+   {
+    "name": "lisinopril",
+    "dose": 20,
+    "unit": "mg",
+    "status": "active"
+   }
+  ],
+  "smoking_status": "never",
+  "follow_up_days": 28,
+  "a1c": null,
+  "phenomena": [
+   "abbreviation",
+   "family_history_distractor",
+   "negation"
+  ],
+  "readmitted_30d": false
+ }
+]

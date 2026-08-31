@@ -1,0 +1,50 @@
+{
+ "baseline": {
+  "n_notes": 150,
+  "n_extracted": 150,
+  "conditions": {
+   "precision": 1.0,
+   "recall": 0.95,
+   "f1": 0.975,
+   "tp": 1036,
+   "fp": 0,
+   "fn": 54,
+   "status_accuracy": 0.984
+  },
+  "medications": {
+   "precision": 0.993,
+   "recall": 0.864,
+   "f1": 0.924,
+   "tp": 437,
+   "fp": 3,
+   "fn": 69,
+   "status_accuracy": 1.0,
+   "dose_accuracy": 1.0
+  },
+  "smoking_accuracy": 1.0,
+  "follow_up_accuracy": 1.0,
+  "a1c_accuracy": 1.0,
+  "recall_by_phenomenon": {
+   "discontinued_med": {
+    "recall": 0.0,
+    "n": 66
+   },
+   "hedged_dx": {
+    "recall": 0.0,
+    "n": 49
+   },
+   "historical": {
+    "recall": 0.739,
+    "n": 69
+   },
+   "misspelling": {
+    "recall": 0.869,
+    "n": 99
+   },
+   "negation": {
+    "recall": 1.0,
+    "n": 296
+   }
+  }
+ }
+}

@@ -1,0 +1,602 @@
+[
+ {
+  "note_id": "note_0000",
+  "text": "Clinic note. 47 year old man presenting for follow-up. Endorses intermittent lower extremity edema. Reports no palpitations. No dyspnea. Reports no fevers. Past medical history includes CKD stage 3, hypothyroidism, T2DM, OA. Family history: Father with colon cancer. Allergies: penicillin (rash). Never smoker. Current medications are insulin glargine 18units at bedtime; metformin 1000 mg BID; acetaminophen 500 mg as needed; levothyroxine 100mcg daily. Most recent A1c 10.5%. Spirometry pending; possible early COPD. Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0001",
+  "text": "PROGRESS NOTE\n\nSubjective: 37 year old woman presenting for follow-up. Denies palpitations. Denies pneumonia.\n\nPast Medical History: chronic obstructive pulmonary disease; HLD; chronic kidney disease; diabetes mellitus type 2; hypothyroidism.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: No history of smoking.\n\nMedications:\n- tiotropium 18mcg daily inhaled\n\nLabs: Most recent A1c 6.6%.\n\nAssessment and Plan: We discontinued atorvastatin 40 mg today because of myalgias. RTC in 8 weeks."
+ },
+ {
+  "note_id": "note_0002",
+  "text": "Clinic note. 63 year old woman presenting for follow-up. Endorses intermittent dyspnea. No fever. Past medical history includes atrial fibrillation, CHF, asthma, HLD, gastroesophageal reflux disease. Family history: Sister with breast cancer. Allergies: no known drug allergies. Ex-smoker, no tobacco since 2016. Current medications are omeprazole 40 mg before breakfast; albuterol 90 mcg 2 puffs as needed. RTC in 8 weeks."
+ },
+ {
+  "note_id": "note_0003",
+  "text": "PROGRESS NOTE\n\nSubjective: 39 year old man presenting for follow-up. Denies palpitations.\n\nPast Medical History: atrial fibrillation; diabetes mellitus type 2.\nFamily History: Mother with hypertension and stroke.\nAllergies: sulfa drugs (hives).\nSocial History: Denies any tobacco use.\n\nMedications:\n- gabapentin 300 mg TID\n- metoprolol succinate 50 mg daily\n- insulin glargine 18 units at bedtime\n\nLabs: Most recent A1c 10.9%.\n\nAssessment and Plan: Postprandial burning is most likely GERD; will trial empiric therapy. We discontinued metformin 850 mg today because of GI upset. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0004",
+  "text": "Clinic note. 61 year old woman presenting for follow-up. Reports no fevers. Denies palpitations. Past medical history includes hypertension, heart failure. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). Retired, lives alone. Current medications are furosemide 20 mg each morning; lisinopril 20 mg once daily. We discontinued gabapentin 300 mg today because of daytime sedation. Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0005",
+  "text": "PROGRESS NOTE\n\nSubjective: 70 year old man presenting for follow-up. Reports no fevers. Negative for pneumonia.\n\nPast Medical History: chronic obstructive pulmonary disease; chronic kidney disease.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Denies any tobacco use.\n\nMedications:\n- tiotropium 18mcg daily inhaled\n\nAssessment and Plan: Exam findings suggest possible peripheral neuropathy. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0006",
+  "text": "PROGRESS NOTE\n\nSubjective: 88 year old woman presenting for follow-up. Presents with palpitations. Endorses intermittent leg swelling. No pneumonia. Negative for chest pain.\n\nPast Medical History: GERD; COPD; CKD stage 3; depression; hyperlipidemia.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: Denies any tobacco use.\n\nMedications:\n- atorvastatin 40 mg at bedtime\n- omeprazole 20 mg before breakfast\n- tiotropium 18 mcg daily inhaled\n- sertraline 50 mg daily\n- gabapentin 600 mg TID\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0007",
+  "text": "PROGRESS NOTE\n\nSubjective: 38 year old woman presenting for follow-up. Reports no chest pain. Reports no shortness of breath.\n\nPast Medical History: OA; depression; asthma; T2DM; atrial fibrillation; Hospitalized for pneumonia in 2008, resolved.\nFamily History: Mother with type 2 diabetes.\nAllergies: no known drug allergies.\nSocial History: Ex-smoker, no tobacco since 2020.\n\nMedications:\n- metformin 850 mg BID\n- metoprolol succinate 100 mg daily\n- sertraline 100 mg daily\n- albuterol 90 mcg 2 puffs as needed\n- gabapentin 300 mg three times daily\n\nLabs: Most recent A1c 8.4%.\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0008",
+  "text": "Clinic note. 77 year old woman presenting for follow-up. Reports chest pain over the past week. Presents with palpitations. Denies fever. Denies dyspnea. Denies leg swelling. Past medical history includes HLD, gastroesophageal reflux disease, T2DM, depression, heart failure, History of breast cancer in 2014, in remission. Family history: Father had a myocardial infarction at age 60. Allergies: no known drug allergies. Quit smoking 16 years ago after a 15 pack-year history. Current medications are sertraline 100 mg daily; atorvastatin 40 mg at bedtime; metformin 850 mg twice daily; omeprazole 20 mg before breakfast. Most recent A1c 6.7%. We discontinued gabapentin 300 mg today because of daytime sedation. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0009",
+  "text": "Clinic note. 66 year old woman presenting for follow-up. Presents with dyspnea. Reports no leg swelling. Reports no fevers. Denies palpitations. Past medical history includes diabetes mellitus type 2, GERD, CHF, Hospitalized for pneumonia in 2019, resolved. Family history: Mother with type 2 diabetes. Allergies: sulfa drugs (hives). Current smoker, about half a pack daily. Current medications are furosemide 20 mg daily; insulin glargine 12 units at bedtime; omeprazole 20mg before breakfast; metformin 850mg BID. Most recent A1c 11.5%. We discontinued gabapentin 600 mg today because of daytime sedation. Return to clinic in 4 weeks."
+ },
+ {
+  "note_id": "note_0010",
+  "text": "Clinic note. 51 year old woman presenting for follow-up. Reports shortness of breath over the past week. Denies chest pain. No lower extremity edema. Negative for fevers. Past medical history includes HTN, heart failure, hyperlipidemia, Hospitalized for pneumonia in 2020, resolved. Family history: Sister with breast cancer. Allergies: no known drug allergies. Lives with family. Current medications are furosemide 20 mg daily; atorvastatin 20 mg at bedtime; gabapentin 300mg three times daily; lisinopril 20 mg once daily. We discontinued amlodipine 10 mg today because of ankle swelling. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0011",
+  "text": "PROGRESS NOTE\n\nSubjective: 78 year old woman presenting for follow-up. Presents with chest pain. No shortness of breath.\n\nPast Medical History: CKD stage 3; atrial fibrillation; HLD.\nFamily History: Father with colon cancer.\nAllergies: no known drug allergies.\nSocial History: No history of smoking.\n\nMedications:\n- apixaban 5 mg twice daily\n- atorvastatin 20 mg daily\n\nLabs: Most recent A1c 9.3%.\n\nAssessment and Plan: We discontinued gabapentin 600 mg today because of daytime sedation. Return to clinic in 4 weeks."
+ },
+ {
+  "note_id": "note_0012",
+  "text": "PROGRESS NOTE\n\nSubjective: 55 year old woman presenting for follow-up. Presents with lower extremity edema. Denies shortness of breath. Denies pneumonia.\n\nPast Medical History: HTN; afib; hypothyroidism; chronic kidney disease; congestive heart failure.\nFamily History: Father with colon cancer.\nAllergies: codeine (nausea).\nSocial History: Former smoker, quit in 2013.\n\nMedications:\n- levothyroxine 75mcg daily\n- furosemide 20 mg daily\n\nAssessment and Plan: RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0013",
+  "text": "PROGRESS NOTE\n\nSubjective: 51 year old woman presenting for follow-up. Denies fever. Reports no chest pain. Negative for dyspnea.\n\nPast Medical History: COPD; HTN; AF; History of breast cancer in 2006, in remission.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: penicillin (rash).\nSocial History: Denies any tobacco use.\n\nMedications:\n- amlodipine 10 mg daily\n- tiotropium 18 mcg daily inhaled\n- metoprolol succinate 50mg daily\n\nAssessment and Plan: Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0014",
+  "text": "Clinic note. 74 year old man presenting for follow-up. Reports lower extremity edema over the past week. Presents with pneumonia. No dyspnea. Past medical history includes GERD, asthma. Family history: Sister with breast cancer. Allergies: codeine (nausea). Active tobacco use, 1 ppd for 20 years. Current medications are albuterol 90 mcg 2 puffs as needed; gabapentin 600mg three times daily; omeprazole 40 mg daily. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0015",
+  "text": "Clinic note. 54 year old man presenting for follow-up. Presents with pneumonia. No shortness of breath. Past medical history includes COPD, CKD stage 3, History of DVT in 2007, completed anticoagulation. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). Ex-smoker, no tobacco since 2005. Current medications are gabapentin 300mg three times daily; tiotropium 18mcg daily inhaled. Postprandial burning is most likely GERD; will trial empiric therapy. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0016",
+  "text": "PROGRESS NOTE\n\nSubjective: 76 year old man presenting for follow-up. Reports no chest pain. Reports no palpitations. No lower extremity edema.\n\nPast Medical History: congestive heart failure; GERD; Hospitalized for pneumonia in 2014, resolved.\nFamily History: Father with colon cancer.\nAllergies: penicillin (rash).\nSocial History: Smokes one pack per day.\n\nMedications:\n- gabapentin 600 mg three times daily\n- furosemide 20 mg daily\n\nLabs: Most recent A1c 10.5%.\n\nAssessment and Plan: Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0017",
+  "text": "PROGRESS NOTE\n\nSubjective: 39 year old woman presenting for follow-up. No leg swelling. Reports no fevers. Reports no pneumonia.\n\nPast Medical History: T2DM; heart failure; chronic obstructive pulmonary disease; gastroesophageal reflux disease; History of myocardial infarction in 2016, stented.\nFamily History: Mother with hypertension and stroke.\nAllergies: sulfa drugs (hives).\nSocial History: Current smoker, about half a pack daily.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- gabapentin 300 mg three times daily\n- furosemide 20 mg each morning\n- insulin glargine 24 units nightly\n- metformin 1000 mg twice daily\n\nLabs: Most recent A1c 10.5%.\n\nAssessment and Plan: We discontinued omeprazole 40 mg today because of resolution of symptoms. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0018",
+  "text": "PROGRESS NOTE\n\nSubjective: 58 year old woman presenting for follow-up. Presents with palpitations. Presents with shortness of breath. Reports no leg swelling.\n\nPast Medical History: hypertenion; gastroesophageal reflux disease; CKD stage 3; atrial fibrillation; History of myocardial infarction in 2013, stented.\nFamily History: Sister with breast cancer.\nAllergies: no known drug allergies.\nSocial History: Ex-smoker, no tobacco since 2018.\n\nMedications:\n- apixaban 5mg twice daily\n- omeprazole 20 mg daily\n- gabapentin 600mg TID\n- lisinopril 20 mg once daily\n\nAssessment and Plan: Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0019",
+  "text": "PROGRESS NOTE\n\nSubjective: 46 year old woman presenting for follow-up. Reports no dyspnea. Denies lower extremity edema.\n\nPast Medical History: atrial fibrillation; hypertension; diabetes mellitus type 2; History of breast cancer in 2015, in remission.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: codeine (nausea).\nSocial History: Former smoker, quit in 2012.\n\nMedications:\n- insulin glargine 12 units at bedtime\n- apixaban 5 mg BID\n- metformin 850mg twice daily\n- lisinopril 20 mg daily\n\nLabs: Most recent A1c 6.6%.\n\nAssessment and Plan: Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0020",
+  "text": "Clinic note. 53 year old man presenting for follow-up. No fevers. Denies shortness of breath. Past medical history includes COPD, type 2 diabetes, CKD stage 3, HLD. Family history: Sister with breast cancer. Allergies: codeine (nausea). Denies any tobacco use. Current medications are insulin glargine 12units nightly; tiotropium 18mcg daily inhaled; atorvastatin 20mg at bedtime; gabapentin 300 mg TID. Most recent A1c 9.8%. Postprandial burning is most likely GERD; will trial empiric therapy. We discontinued metformin 850 mg today because of GI upset. Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0021",
+  "text": "PROGRESS NOTE\n\nSubjective: 58 year old man presenting for follow-up. Reports no dyspnea. No chest pain. Reports no pneumonia.\n\nPast Medical History: chronic kidney disease; OA; hypothyroidism; asthma; congestive heart failure.\nFamily History: Mother with type 2 diabetes.\nAllergies: sulfa drugs (hives).\nSocial History: No history of smoking.\n\nMedications:\n- albuterol 90mcg 2 puffs as needed\n- acetaminophen 500 mg as needed\n- furosemide 40 mg daily\n- levothyroxine 100mcg daily\n- gabapentin 600mg TID\n\nLabs: Most recent A1c 9.7%.\n\nAssessment and Plan: Exam findings suggest possible peripheral neuropathy. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0022",
+  "text": "PROGRESS NOTE\n\nSubjective: 45 year old man presenting for follow-up. Reports pneumonia over the past week. Reports dyspnea over the past week. Negative for chest pain. Denies leg swelling.\n\nPast Medical History: depression; atrial fibrillation; History of DVT in 2006, completed anticoagulation.\nFamily History: Mother with type 2 diabetes.\nAllergies: codeine (nausea).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- apixaban 5 mg BID\n- metoprolol succinate 50 mg daily\n\nAssessment and Plan: We discontinued sertraline 50 mg today because of poor tolerability. Return to clinic in 8 weeks."
+ },
+ {
+  "note_id": "note_0023",
+  "text": "PROGRESS NOTE\n\nSubjective: 58 year old woman presenting for follow-up. Presents with fever. Reports palpitations over the past week. No leg swelling. Negative for pneumonia.\n\nPast Medical History: hyperlipdemia; gastroesophageal reflux disease; hypothyroidism.\nFamily History: Mother with hypertension and stroke.\nAllergies: no known drug allergies.\nSocial History: Quit smoking 14 years ago after a 15 pack-year history.\n\nMedications:\n- omeprazole 20mg daily\n- levothyroxine 75 mcg daily\n- atorvastatin 80mg at bedtime\n\nLabs: Most recent A1c 11.2%.\n\nAssessment and Plan: Exam findings suggest possible peripheral neuropathy. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0024",
+  "text": "PROGRESS NOTE\n\nSubjective: 43 year old man presenting for follow-up. Reports dyspnea over the past week. Reports no leg swelling. No fevers.\n\nPast Medical History: chronic obstructive pulmonary disease; gastroesophageal reflux disease; type 2 diabetes; History of DVT in 2009, completed anticoagulation.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: sulfa drugs (hives).\nSocial History: Lives with family.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- insulin glargine 12 units nightly\n- gabapentin 300 mg TID\n- metformin 850 mg twice daily\n- omeprazole 40mg before breakfast\n\nLabs: Most recent A1c 9.0%.\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0025",
+  "text": "PROGRESS NOTE\n\nSubjective: 87 year old man presenting for follow-up. Reports fevers over the past week. Negative for lower extremity edema. Denies chest pain. No dyspnea.\n\nPast Medical History: hypothyroidism; gastroesophageal reflux disease; heart failure; type 2 diabetes; asthma; History of breast cancer in 2008, in remission.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: Retired, lives alone.\n\nMedications:\n- furosemide 40mg daily\n- levothyroxine 75mcg daily\n\nLabs: Most recent A1c 10.2%.\n\nAssessment and Plan: We discontinued gabapentin 600 mg today because of daytime sedation. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0026",
+  "text": "PROGRESS NOTE\n\nSubjective: 65 year old man presenting for follow-up. Negative for fevers. No chest pain. Negative for palpitations.\n\nPast Medical History: gastroesophageal reflux disease; AF.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Never smoker.\n\nMedications:\n- metoprolol succinate 100 mg daily\n- apixaban 5mg BID\n\nAssessment and Plan: Spirometry pending; possible early COPD. We discontinued gabapentin 600 mg today because of daytime sedation. RTC in 1 week."
+ },
+ {
+  "note_id": "note_0027",
+  "text": "Clinic note. 66 year old woman presenting for follow-up. Reports chest pain over the past week. No dyspnea. Negative for fevers. Negative for palpitations. Past medical history includes chronic kidney disease, afib, chronic obstructive pulmonary disease, hyperlipidemia, depression. Family history: Father with colon cancer. Allergies: sulfa drugs (hives). Active tobacco use, 1 ppd for 20 years. Current medications are sertraline 100 mg daily; metoprolol succinate 25mg daily. Exam findings suggest possible peripheral neuropathy. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0028",
+  "text": "PROGRESS NOTE\n\nSubjective: 76 year old woman presenting for follow-up. Reports no pneumonia. Denies shortness of breath.\n\nPast Medical History: HTN; osteoarthritis.\nFamily History: Mother with hypertension and stroke.\nAllergies: codeine (nausea).\nSocial History: Lives with family.\n\nMedications:\n- lisinopril 20mg once daily\n- gabapentin 600 mg TID\n- acetaminophen 500mg as needed\n\nAssessment and Plan: Postprandial burning is most likely GERD; will trial empiric therapy. Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0029",
+  "text": "Clinic note. 63 year old woman presenting for follow-up. Endorses intermittent pneumonia. Endorses intermittent chest pain. Reports no lower extremity edema. Past medical history includes diabetes mellitus type 2, depression, hyperlipidemia, hypertension, History of DVT in 2013, completed anticoagulation. Family history: Mother with type 2 diabetes. Allergies: no known drug allergies. Current smoker, about half a pack daily. Current medications are lisinopril 10 mg daily; insulin glargine 12units at bedtime. Most recent A1c 8.6%. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0030",
+  "text": "Clinic note. 71 year old woman presenting for follow-up. Endorses intermittent shortness of breath. Presents with palpitations. Reports no chest pain. Reports no lower extremity edema. Past medical history includes HTN, asthma, hyperlipidemia, diabetes mellitus type 2. Family history: Mother with type 2 diabetes. Allergies: no known drug allergies. Ex-smoker, no tobacco since 2016. Current medications are lisinopril 40 mg daily; insulin glargine 18 units at bedtime; amlodipine 5mg daily; albuterol 90mcg 2 puffs as needed; gabapentin 300 mg three times daily. Most recent A1c 9.5%. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0031",
+  "text": "PROGRESS NOTE\n\nSubjective: 72 year old woman presenting for follow-up. Reports chest pain over the past week. Denies pneumonia.\n\nPast Medical History: GERD; T2DM; hypertension; chronic kidney disease.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: codeine (nausea).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- lisinopril 40 mg daily\n- amlodipine 5 mg daily\n- omeprazole 20mg before breakfast\n- insulin glargine 12 units nightly\n\nLabs: Most recent A1c 6.4%.\n\nAssessment and Plan: Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0032",
+  "text": "Clinic note. 72 year old woman presenting for follow-up. Reports no shortness of breath. Past medical history includes hypothyroidism, OA, HLD, HTN, afib. Family history: Father had a myocardial infarction at age 60. Allergies: codeine (nausea). Denies any tobacco use. Current medications are apixaban 5mg BID. We discontinued amlodipine 10 mg today because of ankle swelling. RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0033",
+  "text": "PROGRESS NOTE\n\nSubjective: 69 year old man presenting for follow-up. Negative for chest pain. Reports no palpitations.\n\nPast Medical History: HTN; chronic kidney disease; asthma.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: Ex-smoker, no tobacco since 2005.\n\nMedications:\n- lisinopril 40 mg once daily\n- gabapentin 600 mg three times daily\n\nAssessment and Plan: Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0034",
+  "text": "Clinic note. 78 year old woman presenting for follow-up. Presents with dyspnea. Denies chest pain. Past medical history includes hyperlipidemia, afib, CKD stage 3. Family history: Father had a myocardial infarction at age 60. Allergies: codeine (nausea). Current smoker, about half a pack daily. Current medications are apixaban 5 mg BID; gabapentin 300 mg three times daily; metoprolol succinate 25mg daily. RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0035",
+  "text": "PROGRESS NOTE\n\nSubjective: 67 year old woman presenting for follow-up. Endorses intermittent dyspnea. Reports chest pain over the past week. Negative for lower extremity edema. No palpitations.\n\nPast Medical History: afib; CKD stage 3; HLD; gastroesophageal reflux disease; HTN.\nFamily History: Father with colon cancer.\nAllergies: codeine (nausea).\nSocial History: Retired, lives alone.\n\nMedications:\n- lisinopril 10 mg once daily\n- amlodipine 5 mg daily\n- omeprazole 40mg before breakfast\n- apixaban 5mg twice daily\n\nAssessment and Plan: Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0036",
+  "text": "PROGRESS NOTE\n\nSubjective: 47 year old woman presenting for follow-up. Endorses intermittent palpitations. Presents with pneumonia. Negative for shortness of breath.\n\nPast Medical History: GERD; type 2 diabetes; hypothyroidism.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: Smokes one pack per day.\n\nMedications:\n- gabapentin 300 mg three times daily\n- omeprazole 40 mg daily\n- metformin 850 mg twice daily\n- levothyroxine 75mcg daily\n- insulin glargine 12units nightly\n\nLabs: Most recent A1c 11.1%.\n\nAssessment and Plan: Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0037",
+  "text": "PROGRESS NOTE\n\nSubjective: 40 year old man presenting for follow-up. Denies palpitations.\n\nPast Medical History: hypertension; GERD; type 2 diabetes; asthma.\nFamily History: Mother with hypertension and stroke.\nAllergies: no known drug allergies.\nSocial History: Current smoker, about half a pack daily.\n\nMedications:\n- insulin glargine 18 units nightly\n- metformin 500 mg BID\n\nLabs: Most recent A1c 6.9%.\n\nAssessment and Plan: Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0038",
+  "text": "Clinic note. 70 year old man presenting for follow-up. Denies leg swelling. No pneumonia. Denies palpitations. Past medical history includes gastroesophageal reflux disease, hypothyroidism, chronic obstructive pulmonary disease, History of DVT in 2020, completed anticoagulation. Family history: Father with colon cancer. Allergies: codeine (nausea). Lives with family. Current medications are tiotropium 18mcg daily inhaled; omeprazole 40 mg before breakfast; levothyroxine 100mcg daily. We discontinued gabapentin 300 mg today because of daytime sedation. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0039",
+  "text": "Clinic note. 65 year old woman presenting for follow-up. Reports chest pain over the past week. Presents with leg swelling. Reports no shortness of breath. Reports no fevers. Past medical history includes heart failure, HTN, hypothyroidism, HLD, gastroesophageal reflux disease, Hospitalized for pneumonia in 2010, resolved. Family history: Sister with breast cancer. Allergies: sulfa drugs (hives). Retired, lives alone. Current medications are furosemide 40mg each morning; lisinopril 10 mg daily; omeprazole 40mg daily. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0040",
+  "text": "PROGRESS NOTE\n\nSubjective: 77 year old man presenting for follow-up. Reports pneumonia over the past week. No shortness of breath. Negative for leg swelling.\n\nPast Medical History: HLD; gastroesophageal reflux disease; type 2 diabetes.\nFamily History: Mother with type 2 diabetes.\nAllergies: penicillin (rash).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- omeprazole 20mg before breakfast\n- gabapentin 600mg three times daily\n- insulin glargine 24 units at bedtime\n- atorvastatin 80 mg at bedtime\n\nLabs: Most recent A1c 9.8%.\n\nAssessment and Plan: RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0041",
+  "text": "Clinic note. 55 year old man presenting for follow-up. Reports chest pain over the past week. Endorses intermittent palpitations. Negative for lower extremity edema. Denies dyspnea. Past medical history includes CHF, chronic obstructive pulmonary disease, OA. Family history: Mother with type 2 diabetes. Allergies: sulfa drugs (hives). Active tobacco use, 1 ppd for 20 years. Current medications are acetaminophen 500 mg as needed. We discontinued gabapentin 300 mg today because of daytime sedation. RTC in 1 week."
+ },
+ {
+  "note_id": "note_0042",
+  "text": "PROGRESS NOTE\n\nSubjective: 52 year old man presenting for follow-up. Reports fevers over the past week. No dyspnea.\n\nPast Medical History: chronic kidney disease; AF.\nFamily History: Mother with type 2 diabetes.\nAllergies: sulfa drugs (hives).\nSocial History: Retired, lives alone.\n\nMedications:\n- apixaban 5 mg BID\n- metoprolol succinate 25mg daily\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0043",
+  "text": "PROGRESS NOTE\n\nSubjective: 79 year old man presenting for follow-up. Presents with chest pain. Reports dyspnea over the past week. Denies fever.\n\nPast Medical History: CHF; hypothyroidism; depression; diabetes mellitus type 2.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: codeine (nausea).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- furosemide 40 mg daily\n- levothyroxine 50 mcg daily\n- insulin glargine 18units nightly\n\nLabs: Most recent A1c 10.7%.\n\nAssessment and Plan: We discontinued gabapentin 300 mg today because of daytime sedation. RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0044",
+  "text": "Clinic note. 73 year old man presenting for follow-up. Endorses intermittent dyspnea. Reports no palpitations. No chest pain. No lower extremity edema. Past medical history includes asthma, HTN, afib, gastroesophageal reflux disease, History of breast cancer in 2009, in remission. Family history: Mother with hypertension and stroke. Allergies: codeine (nausea). Retired, lives alone. Current medications are albuterol 90 mcg 2 puffs as needed; omeprazole 40mg daily; metoprolol succinate 25 mg daily. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0045",
+  "text": "Clinic note. 84 year old man presenting for follow-up. Reports dyspnea over the past week. No palpitations. Negative for fever. Past medical history includes hypertension, gastroesophageal reflux disease, HLD, OA, atrial fibrillation, Hospitalized for pneumonia in 2015, resolved. Family history: Father with colon cancer. Allergies: sulfa drugs (hives). Current smoker, about half a pack daily. Current medications are omeprazole 20 mg before breakfast. Spirometry pending; possible early COPD. We discontinued gabapentin 600 mg today because of daytime sedation. Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0046",
+  "text": "Clinic note. 65 year old woman presenting for follow-up. Negative for chest pain. Denies leg swelling. Past medical history includes OA, GERD, type 2 diabetes, History of breast cancer in 2009, in remission. Family history: Sister with breast cancer. Allergies: penicillin (rash). Lives with family. Current medications are omeprazole 20 mg daily. Most recent A1c 5.8%. We discontinued gabapentin 300 mg today because of daytime sedation. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0047",
+  "text": "Clinic note. 63 year old man presenting for follow-up. Reports shortness of breath over the past week. Presents with pneumonia. Reports no chest pain. Past medical history includes CHF, afib, hyperlipidemia, CKD stage 3, COPD, History of breast cancer in 2006, in remission. Family history: Mother with type 2 diabetes. Allergies: penicillin (rash). Active tobacco use, 1 ppd for 20 years. Current medications are gabapentin 600mg three times daily; furosemide 40 mg daily. RTC in 1 week."
+ },
+ {
+  "note_id": "note_0048",
+  "text": "Clinic note. 71 year old woman presenting for follow-up. Reports chest pain over the past week. Endorses intermittent palpitations. Reports no pneumonia. Reports no dyspnea. Past medical history includes HLD, atrial fibrillation, COPD, History of myocardial infarction in 2012, stented. Family history: Sister with breast cancer. Allergies: no known drug allergies. No history of smoking. Current medications are tiotropium 18mcg daily inhaled; gabapentin 300 mg three times daily; metoprolol succinate 50 mg daily; apixaban 5 mg twice daily; atorvastatin 80 mg at bedtime. Most recent A1c 6.1%. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0049",
+  "text": "Clinic note. 59 year old woman presenting for follow-up. Negative for chest pain. Past medical history includes CHF, hypertension, asthma, HLD, afib, Hospitalized for pneumonia in 2005, resolved. Family history: Mother with hypertension and stroke. Allergies: sulfa drugs (hives). Lives with family. Current medications are metoprolol succinate 50 mg daily; furosemide 20 mg daily. Spirometry pending; possible early COPD. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0050",
+  "text": "Clinic note. 72 year old woman presenting for follow-up. Presents with pneumonia. Presents with palpitations. No chest pain. Past medical history includes chronic kidney disease, afib, OA, History of myocardial infarction in 2020, stented. Family history: Mother with type 2 diabetes. Allergies: penicillin (rash). Quit smoking 9 years ago after a 15 pack-year history. Current medications are acetaminophen 500mg as needed; metoprolol succinate 100 mg daily; apixaban 5 mg BID. RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0051",
+  "text": "Clinic note. 56 year old man presenting for follow-up. No palpitations. Past medical history includes heart failure, hypertension. Family history: Sister with breast cancer. Allergies: sulfa drugs (hives). Active tobacco use, 1 ppd for 20 years. Current medications are lisinopril 40mg daily; furosemide 40mg daily. We discontinued gabapentin 300 mg today because of daytime sedation. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0052",
+  "text": "Clinic note. 86 year old man presenting for follow-up. Presents with fevers. Negative for pneumonia. Denies shortness of breath. Negative for palpitations. Past medical history includes chronic obstructive pulmonary disease, HTN, T2DM, OA. Family history: Father had a myocardial infarction at age 60. Allergies: codeine (nausea). Retired, lives alone. Current medications are insulin glargine 18 units nightly. Most recent A1c 8.4%. We discontinued metformin 500 mg today because of GI upset. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0053",
+  "text": "PROGRESS NOTE\n\nSubjective: 73 year old woman presenting for follow-up. Presents with shortness of breath. Presents with pneumonia. Denies palpitations.\n\nPast Medical History: CKD stage 3; HTN; depression; HLD.\nFamily History: Mother with type 2 diabetes.\nAllergies: penicillin (rash).\nSocial History: Ex-smoker, no tobacco since 2017.\n\nMedications:\n- lisinopril 10 mg once daily\n- gabapentin 600mg TID\n- sertraline 100 mg daily\n- atorvastatin 20mg daily\n\nAssessment and Plan: We discontinued amlodipine 10 mg today because of ankle swelling. Return to clinic in 1 week."
+ },
+ {
+  "note_id": "note_0054",
+  "text": "PROGRESS NOTE\n\nSubjective: 69 year old woman presenting for follow-up. Endorses intermittent palpitations. Denies shortness of breath.\n\nPast Medical History: GERD; hypothyroidism; diabetes mellitus type 2.\nFamily History: Sister with breast cancer.\nAllergies: penicillin (rash).\nSocial History: Smokes one pack per day.\n\nMedications:\n- omeprazole 20mg before breakfast\n- metformin 850mg BID\n- levothroxine 100 mcg daily\n- insulin glargine 12 units nightly\n\nLabs: Most recent A1c 11.1%.\n\nAssessment and Plan: We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0055",
+  "text": "Clinic note. 84 year old man presenting for follow-up. Endorses intermittent chest pain. Reports no palpitations. Negative for dyspnea. Past medical history includes gastroesophageal reflux disease, osteoarthritis, asthma, History of breast cancer in 2015, in remission. Family history: Mother with hypertension and stroke. Allergies: sulfa drugs (hives). Retired, lives alone. Current medications are acetaminophen 500 mg as needed; gabapentin 300 mg TID. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0056",
+  "text": "PROGRESS NOTE\n\nSubjective: 85 year old man presenting for follow-up. Endorses intermittent palpitations. Denies shortness of breath. Denies chest pain. No pneumonia.\n\nPast Medical History: OA; heart failure.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Lives with family.\n\nMedications:\n- acetaminophen 500 mg as needed\n- gabapentin 600 mg TID\n- furosemide 20 mg daily\n\nAssessment and Plan: Spirometry pending; possible early COPD. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0057",
+  "text": "PROGRESS NOTE\n\nSubjective: 72 year old man presenting for follow-up. Denies chest pain. Negative for pneumonia. Denies leg swelling.\n\nPast Medical History: OA; asthma; chronic obstructive pulmonary disease; afib.\nFamily History: Sister with breast cancer.\nAllergies: no known drug allergies.\nSocial History: Denies any tobacco use.\n\nMedications:\n- acetaminophen 500 mg as needed\n- gabapentin 300 mg TID\n\nAssessment and Plan: RTC in 1 week."
+ },
+ {
+  "note_id": "note_0058",
+  "text": "Clinic note. 35 year old woman presenting for follow-up. Reports lower extremity edema over the past week. Reports pneumonia over the past week. Reports no palpitations. Negative for chest pain. No fevers. Past medical history includes asthma, diabetes mellitus type 2, hyperlipidemia, AF. Family history: Sister with breast cancer. Allergies: sulfa drugs (hives). Lives with family. Current medications are insulin glargine 18 units nightly; gabapentin 600 mg three times daily; apixaban 5 mg BID; metoprolol succinate 50 mg daily. Most recent A1c 7.3%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued metformin 1000 mg today because of GI upset. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0059",
+  "text": "PROGRESS NOTE\n\nSubjective: 83 year old woman presenting for follow-up. Reports no chest pain. Denies dyspnea.\n\nPast Medical History: asthma; CKD stage 3; History of DVT in 2020, completed anticoagulation.\nFamily History: Mother with hypertension and stroke.\nAllergies: penicillin (rash).\nSocial History: Lives with family.\n\nMedications:\n- gabapentin 300 mg three times daily\n- albuterol 90 mcg 2 puffs as needed\n\nAssessment and Plan: Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0060",
+  "text": "Clinic note. 46 year old woman presenting for follow-up. Presents with palpitations. No leg swelling. Past medical history includes COPD, CKD stage 3, HTN, GERD, Hospitalized for pneumonia in 2019, resolved. Family history: Father had a myocardial infarction at age 60. Allergies: sulfa drugs (hives). Ex-smoker, no tobacco since 2011. Current medications are tiotropium 18 mcg daily inhaled; lisinopril 20mg daily. Most recent A1c 9.9%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued amlodipine 5 mg today because of ankle swelling. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0061",
+  "text": "Clinic note. 65 year old woman presenting for follow-up. Presents with fever. Presents with palpitations. Reports no lower extremity edema. Past medical history includes atrial fibrillation, heart failure. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). Former smoker, quit in 2015. Current medications are apixaban 5 mg twice daily; metoprolol succinate 50 mg daily. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0062",
+  "text": "PROGRESS NOTE\n\nSubjective: 57 year old man presenting for follow-up. No chest pain.\n\nPast Medical History: AF; CHF; chronic obstructive pulmonary disease; depression; GERD.\nFamily History: Father with colon cancer.\nAllergies: no known drug allergies.\nSocial History: Denies any tobacco use.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- apixaban 5 mg twice daily\n- metoprolol succinate 50 mg daily\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued sertraline 50 mg today because of poor tolerability. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0063",
+  "text": "Clinic note. 65 year old man presenting for follow-up. Reports shortness of breath over the past week. Denies palpitations. Denies pneumonia. Denies chest pain. Past medical history includes hypothyroidism, atrial fibrillation. Family history: Sister with breast cancer. Allergies: no known drug allergies. Retired, lives alone. Current medications are levothyroxine 100mcg daily; gabapentin 300mg TID; apixaban 5 mg twice daily; metoprolol succinate 100 mg daily. Postprandial burning is most likely GERD; will trial empiric therapy. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0064",
+  "text": "Clinic note. 56 year old man presenting for follow-up. Endorses intermittent fever. Reports palpitations over the past week. Reports no lower extremity edema. Past medical history includes CHF, afib, OA, asthma, HLD, Hospitalized for pneumonia in 2007, resolved. Family history: Father had a myocardial infarction at age 60. Allergies: no known drug allergies. Quit smoking 5 years ago after a 15 pack-year history. Current medications are albuterol 90 mcg 2 puffs as needed; acetaminophen 500 mg as needed; metoprolol succinate 50 mg daily. We discontinued atorvastatin 40 mg today because of myalgias. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0065",
+  "text": "Clinic note. 39 year old woman presenting for follow-up. Endorses intermittent leg swelling. Reports no palpitations. Negative for fever. Past medical history includes atrial fibrillation, T2DM, asthma, chronic obstructive pulmonary disease, CKD stage 3. Family history: Sister with breast cancer. Allergies: no known drug allergies. Quit smoking 6 years ago after a 15 pack-year history. Current medications are metoprolol succinate 50 mg daily; metformin 1000mg BID; apixaban 5 mg twice daily. Most recent A1c 6.5%. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0066",
+  "text": "Clinic note. 46 year old woman presenting for follow-up. Presents with palpitations. Denies chest pain. Past medical history includes CKD stage 3, hyperlipidemia, congestive heart failure, Hospitalized for pneumonia in 2005, resolved. Family history: Father with colon cancer. Allergies: codeine (nausea). Lives with family. Current medications are furosemide 20mg each morning. We discontinued gabapentin 300 mg today because of daytime sedation. Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0067",
+  "text": "Clinic note. 77 year old man presenting for follow-up. Presents with leg swelling. Endorses intermittent pneumonia. Reports no shortness of breath. Past medical history includes COPD, congestive heart failure, depression. Family history: Father had a myocardial infarction at age 60. Allergies: sulfa drugs (hives). Quit smoking 15 years ago after a 15 pack-year history. Current medications are tiotropium 18 mcg daily inhaled; gabapentin 600 mg three times daily; furosemide 20 mg each morning. Most recent A1c 8.2%. RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0068",
+  "text": "Clinic note. 41 year old man presenting for follow-up. Endorses intermittent pneumonia. Negative for chest pain. Denies leg swelling. Denies dyspnea. Past medical history includes chronic obstructive pulmonary disease, T2DM, hypothyroidism. Family history: Mother with type 2 diabetes. Allergies: penicillin (rash). Ex-smoker, no tobacco since 2009. Current medications are metformin 500mg BID; gabapentin 300 mg three times daily; tiotropium 18mcg daily inhaled. Most recent A1c 10.3%. Postprandial burning is most likely GERD; will trial empiric therapy. Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0069",
+  "text": "PROGRESS NOTE\n\nSubjective: 68 year old man presenting for follow-up. No pneumonia.\n\nPast Medical History: hyperlipidemia; AF; asthma; History of breast cancer in 2005, in remission.\nFamily History: Sister with breast cancer.\nAllergies: no known drug allergies.\nSocial History: Former smoker, quit in 2015.\n\nMedications:\n- albuterol 90 mcg 2 puffs as needed\n- atorvastatin 40 mg daily\n- gabapentin 600 mg TID\n- apixaban 5 mg BID\n- metoprolol succinate 100mg daily\n\nAssessment and Plan: RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0070",
+  "text": "PROGRESS NOTE\n\nSubjective: 44 year old woman presenting for follow-up. Endorses intermittent chest pain. No pneumonia. Reports no palpitations. Denies leg swelling.\n\nPast Medical History: chronic obstructive pulmonary disease; osteoarthritis.\nFamily History: Mother with type 2 diabetes.\nAllergies: codeine (nausea).\nSocial History: Retired, lives alone.\n\nMedications:\n- acetaminophen 500mg as needed\n- tiotropium 18 mcg daily inhaled\n\nAssessment and Plan: Exam findings suggest possible peripheral neuropathy. We discontinued gabapentin 300 mg today because of daytime sedation. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0071",
+  "text": "Clinic note. 37 year old man presenting for follow-up. Presents with pneumonia. Denies chest pain. No palpitations. Negative for shortness of breath. Past medical history includes congestive heart failure, chronic obstructive pulmonary disease, T2DM, gastroesophageal reflux disease, History of breast cancer in 2019, in remission. Family history: Father had a myocardial infarction at age 60. Allergies: codeine (nausea). Quit smoking 4 years ago after a 15 pack-year history. Current medications are tiotropium 18 mcg daily inhaled; insulin glargine 18 units at bedtime; omeprazole 40 mg before breakfast; furosemide 20mg each morning; gabapentin 300 mg TID. Most recent A1c 8.1%. We discontinued metformin 500 mg today because of GI upset. Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0072",
+  "text": "Clinic note. 48 year old man presenting for follow-up. Negative for palpitations. Past medical history includes T2DM, depression, hypothyroidism, asthma, OA, History of breast cancer in 2010, in remission. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). Retired, lives alone. Current medications are levothyroxine 50 mcg daily; albuterol 90mcg 2 puffs as needed; acetaminophen 500 mg as needed. Most recent A1c 7.8%. Spirometry pending; possible early COPD. We discontinued sertraline 50 mg today because of poor tolerability. Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0073",
+  "text": "PROGRESS NOTE\n\nSubjective: 42 year old woman presenting for follow-up. Endorses intermittent leg swelling. Reports chest pain over the past week. Negative for pneumonia. Negative for palpitations.\n\nPast Medical History: type 2 diabetes; GERD; afib.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: sulfa drugs (hives).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- metfromin 500mg twice daily\n- apixaban 5 mg BID\n- insulin glargine 12 units at bedtime\n\nLabs: Most recent A1c 9.0%.\n\nAssessment and Plan: We discontinued gabapentin 300 mg today because of daytime sedation. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0074",
+  "text": "Clinic note. 39 year old man presenting for follow-up. Reports no palpitations. Past medical history includes depression, type 2 diabetes, asthma. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). Quit smoking 3 years ago after a 15 pack-year history. Current medications are albuterol 90mcg 2 puffs as needed; insulin glargine 12units nightly. Most recent A1c 6.3%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued metformin 500 mg today because of GI upset. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0075",
+  "text": "PROGRESS NOTE\n\nSubjective: 87 year old woman presenting for follow-up. Presents with fever. Presents with shortness of breath. Reports no leg swelling. No palpitations.\n\nPast Medical History: chronic obstructive pulmonary disease; AF; HTN; heart failure; hypothyroidism.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Quit smoking 19 years ago after a 15 pack-year history.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- levothyroxine 100 mcg daily\n- apixaban 5 mg twice daily\n- metoprolol succinate 25mg daily\n\nAssessment and Plan: Postprandial burning is most likely GERD; will trial empiric therapy. We discontinued lisinopril 10 mg today because of a persistent dry cough. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0076",
+  "text": "PROGRESS NOTE\n\nSubjective: 81 year old man presenting for follow-up. Negative for pneumonia. No palpitations.\n\nPast Medical History: AF; OA; CKD stage 3; gastroesophageal reflux disease.\nFamily History: Sister with breast cancer.\nAllergies: penicillin (rash).\nSocial History: Never smoker.\n\nMedications:\n- metoprolol succinate 25 mg daily\n- gabapentin 300 mg TID\n- apixaban 5 mg BID\n\nLabs: Most recent A1c 10.8%.\n\nAssessment and Plan: We discontinued omeprazole 20 mg today because of resolution of symptoms. RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0077",
+  "text": "PROGRESS NOTE\n\nSubjective: 42 year old woman presenting for follow-up. Reports fever over the past week. Reports no palpitations. Denies leg swelling.\n\nPast Medical History: HTN; GERD; OA.\nFamily History: Sister with breast cancer.\nAllergies: penicillin (rash).\nSocial History: Quit smoking 20 years ago after a 15 pack-year history.\n\nMedications:\n- lisinopril 40 mg daily\n- gabapentin 300 mg TID\n- acetaminophen 500mg as needed\n\nAssessment and Plan: Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0078",
+  "text": "PROGRESS NOTE\n\nSubjective: 57 year old woman presenting for follow-up. Negative for dyspnea. Denies leg swelling.\n\nPast Medical History: asthma; T2DM; heart failure; osteoarthritis.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: sulfa drugs (hives).\nSocial History: Never smoker.\n\nMedications:\n- albuterol 90 mcg 2 puffs as needed\n- metformin 500 mg twice daily\n- acetaminophen 500mg as needed\n\nLabs: Most recent A1c 5.4%.\n\nAssessment and Plan: We discontinued gabapentin 300 mg today because of daytime sedation. RTC in 6 weeks."
+ },
+ {
+  "note_id": "note_0079",
+  "text": "Clinic note. 63 year old man presenting for follow-up. Presents with palpitations. Presents with lower extremity edema. Reports no chest pain. Past medical history includes atrial fibrillation, osteoarthritis, CKD stage 3, T2DM. Family history: Mother with hypertension and stroke. Allergies: codeine (nausea). Quit smoking 10 years ago after a 15 pack-year history. Current medications are metoprolol succinate 50 mg daily; apixaban 5mg BID. Most recent A1c 6.1%. RTC in 6 weeks."
+ },
+ {
+  "note_id": "note_0080",
+  "text": "PROGRESS NOTE\n\nSubjective: 85 year old woman presenting for follow-up. Endorses intermittent leg swelling. No palpitations. Negative for shortness of breath. No fever.\n\nPast Medical History: HTN; hyperlipidemia; osteoarthritis; CHF; History of DVT in 2016, completed anticoagulation.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Active tobacco use, 1 ppd for 20 years.\n\nMedications:\n- gabapentin 600 mg TID\n- amlodipine 5 mg daily\n- lisinopril 20 mg once daily\n- atorvastatin 20 mg daily\n- acetaminophen 500mg as needed\n\nAssessment and Plan: Return to clinic in 8 weeks."
+ },
+ {
+  "note_id": "note_0081",
+  "text": "Clinic note. 73 year old woman presenting for follow-up. Reports no chest pain. Past medical history includes AF, chronic obstructive pulmonary disease, GERD. Family history: Mother with hypertension and stroke. Allergies: no known drug allergies. Active tobacco use, 1 ppd for 20 years. Current medications are gabapentin 600 mg TID; metoprolol succinate 100 mg daily; apixaban 5 mg twice daily. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0082",
+  "text": "PROGRESS NOTE\n\nSubjective: 53 year old woman presenting for follow-up. Negative for fevers. Reports no leg swelling.\n\nPast Medical History: type 2 diabetes; HLD.\nFamily History: Sister with breast cancer.\nAllergies: no known drug allergies.\nSocial History: Lives with family.\n\nMedications:\n- metformin 850 mg BID\n- gabapentin 300 mg TID\n- atorvastatin 40 mg daily\n\nLabs: Most recent A1c 7.5%.\n\nAssessment and Plan: Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0083",
+  "text": "Clinic note. 54 year old man presenting for follow-up. Denies palpitations. Negative for pneumonia. No fever. Past medical history includes congestive heart failure, hyperlipidemia, hypothyroidism. Family history: Mother with type 2 diabetes. Allergies: sulfa drugs (hives). Never smoker. Current medications are furosemide 20mg daily; levothyroxine 50 mcg daily; gabapentin 600 mg three times daily. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0084",
+  "text": "PROGRESS NOTE\n\nSubjective: 87 year old woman presenting for follow-up. Reports no palpitations. Reports no fevers. Reports no lower extremity edema.\n\nPast Medical History: COPD; asthma; hypothyroidism; hyperlipidemia; Hospitalized for pneumonia in 2010, resolved.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: codeine (nausea).\nSocial History: Never smoker.\n\nMedications:\n- gabapentin 600mg three times daily\n- tiotropium 18 mcg daily inhaled\n- atorvastatin 80mg at bedtime\n\nAssessment and Plan: RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0085",
+  "text": "Clinic note. 36 year old woman presenting for follow-up. Endorses intermittent shortness of breath. Endorses intermittent fevers. No lower extremity edema. Reports no chest pain. Denies palpitations. Past medical history includes hypothyroidism, chronic kidney disease, chronic obstructive pulmonary disease, CHF, Hospitalized for pneumonia in 2017, resolved. Family history: Father with colon cancer. Allergies: no known drug allergies. Former smoker, quit in 2015. Current medications are gabapentin 600 mg TID; levothyroxine 75mcg daily. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0086",
+  "text": "Clinic note. 50 year old woman presenting for follow-up. Denies palpitations. No dyspnea. No lower extremity edema. Past medical history includes asthma, depression, heart failure, T2DM, COPD. Family history: Father with colon cancer. Allergies: sulfa drugs (hives). Smokes one pack per day. Current medications are insulin glargine 24 units nightly; gabapentin 600 mg TID; sertraline 50 mg daily; tiotropium 18 mcg daily inhaled. Most recent A1c 9.2%. RTC in 6 weeks."
+ },
+ {
+  "note_id": "note_0087",
+  "text": "Clinic note. 65 year old man presenting for follow-up. Presents with chest pain. No palpitations. No fevers. Denies pneumonia. Past medical history includes GERD, CHF, hyperlipidemia, T2DM. Family history: Father with colon cancer. Allergies: penicillin (rash). Smokes one pack per day. Current medications are gabapentin 600mg TID; omeprazole 40 mg before breakfast; atorvastatin 40 mg daily; furosemide 20 mg daily; insulin glargine 12 units nightly; metfromin 850mg BID. Most recent A1c 9.6%. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0088",
+  "text": "Clinic note. 67 year old man presenting for follow-up. Presents with pneumonia. Negative for leg swelling. Negative for chest pain. Past medical history includes depression, atrial fibrillation, hypertension. Family history: Sister with breast cancer. Allergies: no known drug allergies. Never smoker. Current medications are metoprolol succinate 100mg daily; amlodipine 5 mg daily; sertraline 50 mg daily; gabapentin 300mg three times daily; apixaban 5mg twice daily. We discontinued lisinopril 20 mg today because of a persistent dry cough. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0089",
+  "text": "PROGRESS NOTE\n\nSubjective: 87 year old woman presenting for follow-up. Denies palpitations. Denies fever.\n\nPast Medical History: diabetes mellitus type 2; hypothyroidism; History of myocardial infarction in 2016, stented.\nFamily History: Mother with type 2 diabetes.\nAllergies: codeine (nausea).\nSocial History: Retired, lives alone.\n\nMedications:\n- insulin glargine 18 units at bedtime\n- gabapentin 300mg three times daily\n- levothyroxine 100 mcg daily\n\nLabs: Most recent A1c 8.7%.\n\nAssessment and Plan: We discontinued metformin 500 mg today because of GI upset. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0090",
+  "text": "Clinic note. 39 year old woman presenting for follow-up. Endorses intermittent pneumonia. Endorses intermittent palpitations. No fevers. Reports no shortness of breath. Past medical history includes COPD, asthma, afib, History of DVT in 2020, completed anticoagulation. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). Smokes one pack per day. Current medications are tiotropium 18mcg daily inhaled; apixaban 5 mg twice daily; albuterol 90 mcg 2 puffs as needed. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0091",
+  "text": "PROGRESS NOTE\n\nSubjective: 85 year old man presenting for follow-up. Negative for palpitations.\n\nPast Medical History: gastroesophageal reflux disease; asthma; hypothyroidism; chronic obstructive pulmonary disease; osteoarthritis.\nFamily History: Mother with type 2 diabetes.\nAllergies: codeine (nausea).\nSocial History: No history of smoking.\n\nMedications:\n- gabapentin 300 mg TID\n- omeprazole 40mg daily\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return to clinic in 8 weeks."
+ },
+ {
+  "note_id": "note_0092",
+  "text": "PROGRESS NOTE\n\nSubjective: 77 year old man presenting for follow-up. Denies pneumonia.\n\nPast Medical History: hypothyroidism; HLD; gastroesophageal reflux disease.\nFamily History: Father with colon cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Ex-smoker, no tobacco since 2006.\n\nMedications:\n- omeprazole 40 mg daily\n- gabapentin 300 mg three times daily\n\nAssessment and Plan: Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0093",
+  "text": "PROGRESS NOTE\n\nSubjective: 86 year old man presenting for follow-up. Endorses intermittent pneumonia. Endorses intermittent dyspnea. Denies fevers.\n\nPast Medical History: COPD; CHF; OA; CKD stage 3.\nFamily History: Mother with hypertension and stroke.\nAllergies: no known drug allergies.\nSocial History: Never smoker.\n\nMedications:\n- furosemide 20 mg each morning\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0094",
+  "text": "PROGRESS NOTE\n\nSubjective: 69 year old man presenting for follow-up. Endorses intermittent chest pain. Reports fevers over the past week. Negative for palpitations. Negative for pneumonia.\n\nPast Medical History: atrial fibrillation; type 2 diabetes; asthma; CKD stage 3; History of DVT in 2017, completed anticoagulation.\nFamily History: Father with colon cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Retired, lives alone.\n\nMedications:\n- metformin 850 mg BID\n- gabapentin 600mg three times daily\n- albuterol 90 mcg 2 puffs as needed\n\nLabs: Most recent A1c 6.3%.\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. RTC in 6 weeks."
+ },
+ {
+  "note_id": "note_0095",
+  "text": "Clinic note. 79 year old woman presenting for follow-up. Endorses intermittent shortness of breath. Reports chest pain over the past week. Denies palpitations. Denies pneumonia. No leg swelling. Past medical history includes afib, heart failure, GERD, HTN, hyperlipidemia. Family history: Father with colon cancer. Allergies: penicillin (rash). Former smoker, quit in 2014. Current medications are furosemide 20 mg daily; lisinopril 40 mg daily; amlodipine 5mg daily; gabapentin 600 mg three times daily; apixaban 5 mg BID; omeprazole 20mg daily. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0096",
+  "text": "Clinic note. 67 year old man presenting for follow-up. Endorses intermittent pneumonia. Denies lower extremity edema. Negative for chest pain. Past medical history includes congestive heart failure, osteoarthritis, History of DVT in 2017, completed anticoagulation. Family history: Father had a myocardial infarction at age 60. Allergies: codeine (nausea). Ex-smoker, no tobacco since 2015. Current medications are acetaminophen 500 mg as needed; gabapentin 600mg TID. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0097",
+  "text": "Clinic note. 64 year old woman presenting for follow-up. No leg swelling. Past medical history includes asthma, hypothyroidism. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). Retired, lives alone. Current medications are levothyroxine 50mcg daily; gabapentin 300 mg three times daily. Exam findings suggest possible peripheral neuropathy. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0098",
+  "text": "Clinic note. 82 year old woman presenting for follow-up. Reports fever over the past week. Endorses intermittent dyspnea. Denies leg swelling. Past medical history includes GERD, depression, asthma, HLD, History of myocardial infarction in 2018, stented. Family history: Sister with breast cancer. Allergies: sulfa drugs (hives). Never smoker. Current medications are omeprazole 20 mg before breakfast; atorvastatin 80 mg daily; gabapentin 300 mg TID. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0099",
+  "text": "PROGRESS NOTE\n\nSubjective: 41 year old man presenting for follow-up. Presents with palpitations. Endorses intermittent pneumonia. No lower extremity edema. No fever. No chest pain.\n\nPast Medical History: hypothyroidism; asthma; afib; chronic kidney disease; diabetes mellitus type 2; History of myocardial infarction in 2018, stented.\nFamily History: Mother with type 2 diabetes.\nAllergies: penicillin (rash).\nSocial History: No history of smoking.\n\nMedications:\n- apixaban 5mg twice daily\n- albuterol 90 mcg 2 puffs as needed\n- metoprolol succinate 25 mg daily\n- metformin 850 mg BID\n\nLabs: Most recent A1c 10.9%.\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0100",
+  "text": "Clinic note. 37 year old man presenting for follow-up. Endorses intermittent shortness of breath. Reports chest pain over the past week. Reports no leg swelling. Negative for fevers. Negative for palpitations. Past medical history includes hypertension, AF, CHF, depression, type 2 diabetes, History of breast cancer in 2010, in remission. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). Lives with family. Current medications are apixaban 5 mg BID; furosemide 40 mg each morning; gabapentin 300 mg three times daily; lisinopril 10 mg once daily; insulin glargine 18units nightly. Most recent A1c 10.4%. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0101",
+  "text": "Clinic note. 65 year old woman presenting for follow-up. Presents with leg swelling. Reports no pneumonia. Denies dyspnea. Negative for fevers. Past medical history includes chronic obstructive pulmonary disease, atrial fibrillation, History of DVT in 2014, completed anticoagulation. Family history: Sister with breast cancer. Allergies: no known drug allergies. Current smoker, about half a pack daily. Current medications are tiotropium 18mcg daily inhaled; apixaban 5 mg BID; metoprolol succinate 100mg daily. We discontinued gabapentin 300 mg today because of daytime sedation. RTC in 2 weeks."
+ },
+ {
+  "note_id": "note_0102",
+  "text": "PROGRESS NOTE\n\nSubjective: 68 year old man presenting for follow-up. Endorses intermittent lower extremity edema. Presents with dyspnea. Negative for chest pain. Reports no pneumonia. Negative for fevers.\n\nPast Medical History: HLD; CKD stage 3.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: penicillin (rash).\nSocial History: Denies any tobacco use.\n\nMedications:\n- atorvastatin 40mg at bedtime\n\nLabs: Most recent A1c 9.9%.\n\nAssessment and Plan: We discontinued gabapentin 300 mg today because of daytime sedation. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0103",
+  "text": "PROGRESS NOTE\n\nSubjective: 37 year old man presenting for follow-up. Reports chest pain over the past week. No pneumonia.\n\nPast Medical History: depression; CHF; gastroesophageal reflux disease; chronic obstructive pulmonary disease.\nFamily History: Father with colon cancer.\nAllergies: codeine (nausea).\nSocial History: Ex-smoker, no tobacco since 2009.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- omeprazole 40mg daily\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued gabapentin 600 mg today because of daytime sedation. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0104",
+  "text": "Clinic note. 83 year old woman presenting for follow-up. Reports shortness of breath over the past week. Reports palpitations over the past week. Reports no chest pain. Denies pneumonia. Past medical history includes COPD, asthma. Family history: Father had a myocardial infarction at age 60. Allergies: sulfa drugs (hives). Smokes one pack per day. Current medications are gabapentin 600mg TID; tiotropium 18 mcg daily inhaled; albuterol 90mcg 2 puffs as needed. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0105",
+  "text": "Clinic note. 45 year old woman presenting for follow-up. Endorses intermittent leg swelling. Presents with shortness of breath. No palpitations. Past medical history includes atrial fibrillation, diabetes mellitus type 2, chronic obstructive pulmonary disease, heart failure, Hospitalized for pneumonia in 2005, resolved. Family history: Sister with breast cancer. Allergies: penicillin (rash). Lives with family. Current medications are metformin 500 mg twice daily; gabapentin 300 mg TID; furosemide 20 mg each morning; tiotropium 18 mcg daily inhaled. Most recent A1c 7.6%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. RTC in 1 week."
+ },
+ {
+  "note_id": "note_0106",
+  "text": "PROGRESS NOTE\n\nSubjective: 76 year old woman presenting for follow-up. Endorses intermittent fevers. Presents with chest pain. Reports no pneumonia. No palpitations. Negative for shortness of breath.\n\nPast Medical History: diabetes mellitus type 2; depression; hyperlipidemia; chronic obstructive pulmonary disease; hypertension; History of myocardial infarction in 2016, stented.\nFamily History: Father with colon cancer.\nAllergies: penicillin (rash).\nSocial History: Retired, lives alone.\n\nMedications:\n- insulin glargine 12units at bedtime\n- lisinopril 20mg once daily\n\nLabs: Most recent A1c 8.6%.\n\nAssessment and Plan: We discontinued atorvastatin 20 mg today because of myalgias. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0107",
+  "text": "PROGRESS NOTE\n\nSubjective: 78 year old man presenting for follow-up. Reports no fever. Reports no pneumonia. Negative for shortness of breath.\n\nPast Medical History: hyperlipidemia; hypothyroidism; heart failure; diabetes mellitus type 2.\nFamily History: Sister with breast cancer.\nAllergies: no known drug allergies.\nSocial History: Lives with family.\n\nMedications:\n- furosemide 40 mg each morning\n\nLabs: Most recent A1c 8.1%.\n\nAssessment and Plan: We discontinued atorvastatin 80 mg today because of myalgias. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0108",
+  "text": "Clinic note. 44 year old man presenting for follow-up. Endorses intermittent fever. Reports no palpitations. Reports no dyspnea. Reports no leg swelling. Past medical history includes hypertenion, asthma, Hospitalized for pneumonia in 2020, resolved. Family history: Mother with hypertension and stroke. Allergies: sulfa drugs (hives). Ex-smoker, no tobacco since 2015. Current medications are amlodipine 10mg daily; lisinopril 20 mg daily; albuterol 90mcg 2 puffs as needed. Most recent A1c 6.2%. We discontinued gabapentin 300 mg today because of daytime sedation. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0109",
+  "text": "PROGRESS NOTE\n\nSubjective: 62 year old man presenting for follow-up. Endorses intermittent chest pain. Reports no leg swelling. No shortness of breath. Denies fevers.\n\nPast Medical History: hyperlipidemia; congestive heart failure; CKD stage 3; History of myocardial infarction in 2010, stented.\nFamily History: Mother with hypertension and stroke.\nAllergies: penicillin (rash).\nSocial History: Retired, lives alone.\n\nMedications:\n- gabapentin 300 mg three times daily\n\nAssessment and Plan: We discontinued atorvastatin 40 mg today because of myalgias. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0110",
+  "text": "Clinic note. 67 year old man presenting for follow-up. Presents with chest pain. Presents with shortness of breath. Negative for fever. Negative for pneumonia. Past medical history includes congestive heart failure, chronic kidney disease, T2DM, osteoarthritis. Family history: Mother with type 2 diabetes. Allergies: sulfa drugs (hives). Retired, lives alone. Current medications are furosemide 40 mg each morning; acetaminophen 500 mg as needed. Most recent A1c 9.9%. Return in 6 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0111",
+  "text": "Clinic note. 80 year old woman presenting for follow-up. Presents with fever. No pneumonia. Past medical history includes asthma, chronic obstructive pulmonary disease, hypothyroidism. Family history: Father had a myocardial infarction at age 60. Allergies: sulfa drugs (hives). Active tobacco use, 1 ppd for 20 years. Current medications are tiotropium 18 mcg daily inhaled; levothyroxine 100 mcg daily; albuterol 90 mcg 2 puffs as needed; gabapentin 600 mg three times daily. Exam findings suggest possible peripheral neuropathy. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0112",
+  "text": "PROGRESS NOTE\n\nSubjective: 54 year old man presenting for follow-up. Presents with fevers. No leg swelling.\n\nPast Medical History: chronic obstructive pulmonary disease; hyperlipidemia.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Smokes one pack per day.\n\nMedications:\n- tiotropium 18mcg daily inhaled\n- gabapentin 300mg TID\n\nAssessment and Plan: Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0113",
+  "text": "Clinic note. 70 year old woman presenting for follow-up. Endorses intermittent chest pain. No leg swelling. Past medical history includes gastroesophageal reflux disease, hyperlipidemia, hypothyroidism, diabetes mellitus type 2, History of DVT in 2010, completed anticoagulation. Family history: Sister with breast cancer. Allergies: penicillin (rash). Retired, lives alone. Current medications are metformin 500mg BID; levothyroxine 50 mcg daily. Most recent A1c 9.0%. Exam findings suggest possible peripheral neuropathy. We discontinued gabapentin 600 mg today because of daytime sedation. Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0114",
+  "text": "Clinic note. 67 year old woman presenting for follow-up. Reports no shortness of breath. Negative for chest pain. Denies palpitations. Past medical history includes HTN, heart failure, HLD, T2DM, Hospitalized for pneumonia in 2010, resolved. Family history: Father had a myocardial infarction at age 60. Allergies: no known drug allergies. Quit smoking 4 years ago after a 15 pack-year history. Current medications are gabapentin 300mg TID; insulin glargine 18units at bedtime; amlodipine 5 mg daily. Most recent A1c 9.1%. Exam findings suggest possible peripheral neuropathy. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0115",
+  "text": "PROGRESS NOTE\n\nSubjective: 66 year old woman presenting for follow-up. Endorses intermittent fever. No palpitations. Reports no pneumonia. Reports no shortness of breath.\n\nPast Medical History: CKD stage 3; gastroesophageal reflux disease; congestive heart failure; afib; chronic obstructive pulmonary disease; History of myocardial infarction in 2007, stented.\nFamily History: Mother with type 2 diabetes.\nAllergies: sulfa drugs (hives).\nSocial History: Quit smoking 12 years ago after a 15 pack-year history.\n\nMedications:\n- apixaban 5 mg twice daily\n- tiotropium 18 mcg daily inhaled\n\nLabs: Most recent A1c 9.2%.\n\nAssessment and Plan: We discontinued omeprazole 40 mg today because of resolution of symptoms. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0116",
+  "text": "Clinic note. 75 year old man presenting for follow-up. Reports dyspnea over the past week. Reports fever over the past week. Negative for lower extremity edema. No chest pain. Denies palpitations. Past medical history includes osteoarthritis, hypertension, gastroesophageal reflux disease, Hospitalized for pneumonia in 2018, resolved. Family history: Mother with type 2 diabetes. Allergies: sulfa drugs (hives). Former smoker, quit in 2008. Current medications are amlodipine 10mg daily; lisinopril 40mg daily; gabapentin 300mg three times daily; acetaminophen 500 mg as needed; omeprazole 40mg daily. Exam findings suggest possible peripheral neuropathy. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0117",
+  "text": "Clinic note. 39 year old woman presenting for follow-up. Endorses intermittent fever. No palpitations. No chest pain. Past medical history includes osteoarthritis, HLD, chronic kidney disease, hypertension, afib. Family history: Sister with breast cancer. Allergies: penicillin (rash). Quit smoking 17 years ago after a 15 pack-year history. Current medications are apixaban 5 mg BID; metoprolol succinate 25 mg daily; lisinopril 20 mg once daily; atorvastatin 40mg at bedtime. We discontinued amlodipine 10 mg today because of ankle swelling. RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0118",
+  "text": "Clinic note. 84 year old woman presenting for follow-up. Reports leg swelling over the past week. Presents with fevers. Reports no chest pain. Reports no shortness of breath. Past medical history includes chronic kidney disease, depression. Family history: Sister with breast cancer. Allergies: codeine (nausea). No history of smoking. Current medications are gabapentin 300 mg three times daily. Postprandial burning is most likely GERD; will trial empiric therapy. We discontinued sertraline 100 mg today because of poor tolerability. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0119",
+  "text": "Clinic note. 45 year old woman presenting for follow-up. Reports palpitations over the past week. Denies leg swelling. No dyspnea. Past medical history includes OA, COPD, HTN, asthma, hyperlipidemia. Family history: Father had a myocardial infarction at age 60. Allergies: sulfa drugs (hives). Smokes one pack per day. Current medications are amlodipine 5mg daily; gabapentin 300mg TID; atorvastatin 20 mg daily. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0120",
+  "text": "Clinic note. 66 year old woman presenting for follow-up. Reports no leg swelling. Past medical history includes heart failure, depression, atrial fibrillation, type 2 diabetes, History of breast cancer in 2008, in remission. Family history: Father with colon cancer. Allergies: codeine (nausea). Former smoker, quit in 2015. Current medications are sertraline 100 mg daily; metoprolol succinate 50 mg daily; apixaban 5 mg BID; insulin glargine 12units at bedtime. Most recent A1c 5.5%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. We discontinued metformin 1000 mg today because of GI upset. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0121",
+  "text": "Clinic note. 51 year old man presenting for follow-up. Endorses intermittent shortness of breath. Reports palpitations over the past week. Reports no fever. Denies lower extremity edema. Reports no chest pain. Past medical history includes hypertension, chronic obstructive pulmonary disease, OA, afib, CKD stage 3, History of myocardial infarction in 2014, stented. Family history: Mother with type 2 diabetes. Allergies: codeine (nausea). No history of smoking. Current medications are metoprolol succinate 25mg daily; tiotropium 18mcg daily inhaled; apixaban 5 mg twice daily; acetaminophen 500 mg as needed. Most recent A1c 7.1%. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0122",
+  "text": "Clinic note. 39 year old man presenting for follow-up. Reports lower extremity edema over the past week. Reports palpitations over the past week. No chest pain. Past medical history includes T2DM, GERD, asthma, depression. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). Denies any tobacco use. Current medications are insulin glargine 18 units nightly; albuterol 90 mcg 2 puffs as needed. Most recent A1c 8.1%. Exam findings suggest possible peripheral neuropathy. We discontinued metformin 850 mg today because of GI upset. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0123",
+  "text": "Clinic note. 68 year old woman presenting for follow-up. Presents with chest pain. Reports palpitations over the past week. No pneumonia. Negative for dyspnea. Past medical history includes OA, T2DM, afib, History of myocardial infarction in 2005, stented. Family history: Mother with hypertension and stroke. Allergies: sulfa drugs (hives). Retired, lives alone. Current medications are metoprolol succinate 25mg daily; insulin glargine 12units nightly; gabapentin 600 mg three times daily; apixaban 5 mg twice daily; acetaminophen 500mg as needed. Most recent A1c 8.3%. We discontinued metfromin 500 mg today because of GI upset. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0124",
+  "text": "PROGRESS NOTE\n\nSubjective: 56 year old woman presenting for follow-up. Presents with dyspnea. Endorses intermittent chest pain. Denies leg swelling.\n\nPast Medical History: CKD stage 3; gastroesophageal reflux disease; hypothyroidism; hyperlipidemia; asthma; Hospitalized for pneumonia in 2005, resolved.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Never smoker.\n\nMedications:\n- levothyroxine 75 mcg daily\n- atorvastatin 80 mg at bedtime\n- albuterol 90 mcg 2 puffs as needed\n- gabapentin 300 mg three times daily\n\nLabs: Most recent A1c 7.0%.\n\nAssessment and Plan: We discontinued omeprazole 20 mg today because of resolution of symptoms. Return to clinic in 2 weeks."
+ },
+ {
+  "note_id": "note_0125",
+  "text": "PROGRESS NOTE\n\nSubjective: 36 year old woman presenting for follow-up. Denies chest pain. Denies fevers. Denies lower extremity edema.\n\nPast Medical History: gastroesophageal reflux disease; afib; hypothyroidism; COPD.\nFamily History: Mother with type 2 diabetes.\nAllergies: penicillin (rash).\nSocial History: Former smoker, quit in 2016.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- gabapentin 300mg three times daily\n- metoprolol succinate 25 mg daily\n- omeprazole 20mg daily\n\nLabs: Most recent A1c 8.8%.\n\nAssessment and Plan: Return to clinic in 6 weeks."
+ },
+ {
+  "note_id": "note_0126",
+  "text": "PROGRESS NOTE\n\nSubjective: 69 year old man presenting for follow-up. Denies chest pain. Negative for palpitations.\n\nPast Medical History: OA; CHF; HLD; History of myocardial infarction in 2005, stented.\nFamily History: Father with colon cancer.\nAllergies: penicillin (rash).\nSocial History: Lives with family.\n\nMedications:\n- acetaminophen 500 mg as needed\n- furosemide 40mg each morning\n\nLabs: Most recent A1c 11.1%.\n\nAssessment and Plan: Postprandial burning is most likely GERD; will trial empiric therapy. RTC in 8 weeks."
+ },
+ {
+  "note_id": "note_0127",
+  "text": "PROGRESS NOTE\n\nSubjective: 77 year old woman presenting for follow-up. Reports no leg swelling. No pneumonia. Reports no palpitations.\n\nPast Medical History: congestive heart failure; osteoarthritis; History of DVT in 2014, completed anticoagulation.\nFamily History: Mother with hypertension and stroke.\nAllergies: codeine (nausea).\nSocial History: Denies any tobacco use.\n\nMedications:\n- acetaminophen 500mg as needed\n- furosemide 40 mg daily\n\nLabs: Most recent A1c 8.9%.\n\nAssessment and Plan: We discontinued gabapentin 600 mg today because of daytime sedation. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0128",
+  "text": "PROGRESS NOTE\n\nSubjective: 36 year old man presenting for follow-up. No palpitations. Reports no fever. Reports no pneumonia.\n\nPast Medical History: asthma; OA; chronic obstructive pulmonary disease; CKD stage 3.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: No history of smoking.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- gabapentin 600mg three times daily\n- acetaminophen 500 mg as needed\n\nAssessment and Plan: Exam findings suggest possible peripheral neuropathy. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0129",
+  "text": "PROGRESS NOTE\n\nSubjective: 86 year old woman presenting for follow-up. Reports palpitations over the past week. Presents with fever. Negative for pneumonia. No lower extremity edema.\n\nPast Medical History: osteoarthritis; CKD stage 3.\nFamily History: Mother with hypertension and stroke.\nAllergies: codeine (nausea).\nSocial History: Lives with family.\n\nMedications:\n- gabapentin 300mg TID\n- acetaminophen 500 mg as needed\n\nAssessment and Plan: Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0130",
+  "text": "Clinic note. 41 year old man presenting for follow-up. Reports no fevers. Negative for leg swelling. Past medical history includes chronic obstructive pulmonary disease, CKD stage 3, History of breast cancer in 2005, in remission. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). Active tobacco use, 1 ppd for 20 years. Current medications are gabapentin 600 mg TID; tiotropium 18mcg daily inhaled. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0131",
+  "text": "PROGRESS NOTE\n\nSubjective: 69 year old man presenting for follow-up. Reports palpitations over the past week. Negative for chest pain. Denies fever. Reports no pneumonia.\n\nPast Medical History: osteoarthritis; hypothyroidism; asthma; depression.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Smokes one pack per day.\n\nMedications:\n- acetaminophen 500 mg as needed\n- levothyroxine 100mcg daily\n\nAssessment and Plan: We discontinued sertraline 100 mg today because of poor tolerability. Return in 3 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0132",
+  "text": "Clinic note. 69 year old woman presenting for follow-up. Reports no shortness of breath. Denies fevers. Negative for pneumonia. Past medical history includes osteoarthritis, hypothyroidism, chronic obstructive pulmonary disease, CKD stage 3, History of DVT in 2010, completed anticoagulation. Family history: Sister with breast cancer. Allergies: codeine (nausea). Lives with family. Current medications are gabapentin 300mg TID; acetaminophen 500 mg as needed; tiotropium 18mcg daily inhaled. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Return in 1 month for routine follow-up."
+ },
+ {
+  "note_id": "note_0133",
+  "text": "PROGRESS NOTE\n\nSubjective: 60 year old woman presenting for follow-up. Endorses intermittent leg swelling. No pneumonia.\n\nPast Medical History: COPD; heart failure; History of breast cancer in 2019, in remission.\nFamily History: Sister with breast cancer.\nAllergies: codeine (nausea).\nSocial History: Never smoker.\n\nMedications:\n- gabapentin 300 mg TID\n- furosemide 40 mg daily\n\nLabs: Most recent A1c 9.6%.\n\nAssessment and Plan: Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0134",
+  "text": "Clinic note. 69 year old man presenting for follow-up. No pneumonia. Denies lower extremity edema. Past medical history includes hyperlipidemia, OA, congestive heart failure. Family history: Mother with hypertension and stroke. Allergies: penicillin (rash). No history of smoking. Current medications are furosemide 40 mg each morning; atorvastatin 80 mg at bedtime; acetaminophen 500 mg as needed. RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0135",
+  "text": "PROGRESS NOTE\n\nSubjective: 68 year old man presenting for follow-up. Endorses intermittent fever. Negative for pneumonia. Denies leg swelling. Negative for shortness of breath.\n\nPast Medical History: HTN; GERD.\nFamily History: Father with colon cancer.\nAllergies: no known drug allergies.\nSocial History: Retired, lives alone.\n\nMedications:\n- amlodipine 10 mg daily\n- omeprazole 20 mg before breakfast\n- lisinopril 10 mg daily\n\nAssessment and Plan: We discontinued gabapentin 300 mg today because of daytime sedation. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0136",
+  "text": "PROGRESS NOTE\n\nSubjective: 50 year old woman presenting for follow-up. Presents with palpitations. Negative for shortness of breath. Denies fevers.\n\nPast Medical History: type 2 diabetes; depression; hypothyroidism; History of breast cancer in 2007, in remission.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Former smoker, quit in 2018.\n\nMedications:\n- insulin glargine 18units at bedtime\n- levothyroxine 50 mcg daily\n- gabapentin 300 mg three times daily\n\nLabs: Most recent A1c 8.2%.\n\nAssessment and Plan: We discontinued sertraline 100 mg today because of poor tolerability. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0137",
+  "text": "Clinic note. 55 year old man presenting for follow-up. Reports chest pain over the past week. No pneumonia. Negative for shortness of breath. Past medical history includes type 2 diabetes, AF, hypothyroidism, HTN, History of breast cancer in 2012, in remission. Family history: Father with colon cancer. Allergies: penicillin (rash). No history of smoking. Current medications are apixaban 5mg twice daily; lisinopril 40 mg daily; metoprolol succinate 25 mg daily; levothyroxine 50mcg daily. Most recent A1c 8.0%. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0138",
+  "text": "Clinic note. 84 year old man presenting for follow-up. Presents with leg swelling. Presents with pneumonia. Denies fevers. Past medical history includes heart failure, CKD stage 3. Family history: Sister with breast cancer. Allergies: codeine (nausea). Active tobacco use, 1 ppd for 20 years. Current medications are furosemide 20mg daily; gabapentin 600 mg TID. Most recent A1c 5.5%. Return in 2 months for routine follow-up."
+ },
+ {
+  "note_id": "note_0139",
+  "text": "PROGRESS NOTE\n\nSubjective: 71 year old man presenting for follow-up. Endorses intermittent palpitations. Presents with dyspnea. Reports no pneumonia.\n\nPast Medical History: COPD; HTN; asthma; chronic kidney disease; History of DVT in 2009, completed anticoagulation.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Retired, lives alone.\n\nMedications:\n- albuterol 90 mcg 2 puffs as needed\n\nLabs: Most recent A1c 7.0%.\n\nAssessment and Plan: Postprandial burning is most likely GERD; will trial empiric therapy. We discontinued amlodipine 5 mg today because of ankle swelling. Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0140",
+  "text": "Clinic note. 83 year old woman presenting for follow-up. Endorses intermittent fever. Reports chest pain over the past week. Denies lower extremity edema. No pneumonia. Past medical history includes asthma, congestive heart failure, gastroesophageal reflux disease, atrial fibrillation, HLD, History of DVT in 2013, completed anticoagulation. Family history: Father had a myocardial infarction at age 60. Allergies: no known drug allergies. Never smoker. Current medications are furosemide 20 mg daily; apixaban 5 mg twice daily. We discontinued gabapentin 600 mg today because of daytime sedation. Follow up in 14 days."
+ },
+ {
+  "note_id": "note_0141",
+  "text": "PROGRESS NOTE\n\nSubjective: 56 year old man presenting for follow-up. Endorses intermittent fever. Negative for dyspnea. Reports no palpitations.\n\nPast Medical History: chronic kidney disease; diabetes mellitus type 2; chronic obstructive pulmonary disease; Hospitalized for pneumonia in 2018, resolved.\nFamily History: Mother with type 2 diabetes.\nAllergies: penicillin (rash).\nSocial History: Former smoker, quit in 2005.\n\nMedications:\n- insulin glargine 12 units nightly\n\nLabs: Most recent A1c 5.9%.\n\nAssessment and Plan: We discontinued metformin 1000 mg today because of GI upset. Return to clinic in 4 weeks."
+ },
+ {
+  "note_id": "note_0142",
+  "text": "PROGRESS NOTE\n\nSubjective: 37 year old man presenting for follow-up. Reports lower extremity edema over the past week. Reports no dyspnea. No palpitations.\n\nPast Medical History: hypothyroidism; heart failure; HTN; History of DVT in 2007, completed anticoagulation.\nFamily History: Sister with breast cancer.\nAllergies: sulfa drugs (hives).\nSocial History: Retired, lives alone.\n\nMedications:\n- furosemide 20 mg each morning\n- amlodipine 10 mg daily\n- lisinopril 20 mg once daily\n- gabapentin 300 mg three times daily\n- levothyroxine 100 mcg daily\n\nAssessment and Plan: Follow up in 10 days."
+ },
+ {
+  "note_id": "note_0143",
+  "text": "Clinic note. 56 year old man presenting for follow-up. Endorses intermittent fevers. No chest pain. Denies shortness of breath. Negative for lower extremity edema. Past medical history includes depression, CHF, chronic obstructive pulmonary disease, History of DVT in 2005, completed anticoagulation. Family history: Sister with breast cancer. Allergies: no known drug allergies. Ex-smoker, no tobacco since 2020. Current medications are gabapentin 300 mg three times daily; furosemide 40 mg daily. Exam findings suggest possible peripheral neuropathy. We discontinued sertraline 50 mg today because of poor tolerability. RTC in 1 week."
+ },
+ {
+  "note_id": "note_0144",
+  "text": "Clinic note. 37 year old man presenting for follow-up. Presents with pneumonia. Presents with shortness of breath. Negative for leg swelling. Past medical history includes COPD, GERD, hypertenion, chronic kidney disease, T2DM, History of breast cancer in 2020, in remission. Family history: Sister with breast cancer. Allergies: sulfa drugs (hives). Retired, lives alone. Current medications are insulin glargine 12units nightly; metformin 850mg BID; amlodipine 10 mg daily; tiotropium 18 mcg daily inhaled; gabapentin 300 mg three times daily; omeprazole 20mg before breakfast. Most recent A1c 8.3%. Symptoms are suspicious for obstructive sleep apnea; sleep study ordered. Follow up in 7 days."
+ },
+ {
+  "note_id": "note_0145",
+  "text": "PROGRESS NOTE\n\nSubjective: 53 year old man presenting for follow-up. Reports leg swelling over the past week. Reports pneumonia over the past week. Denies chest pain. Denies palpitations.\n\nPast Medical History: hyperlipidemia; chronic kidney disease; hypothyroidism; chronic obstructive pulmonary disease.\nFamily History: Father with colon cancer.\nAllergies: penicillin (rash).\nSocial History: Smokes one pack per day.\n\nMedications:\n- tiotropium 18 mcg daily inhaled\n- gabapentin 600 mg three times daily\n\nAssessment and Plan: RTC in 4 weeks."
+ },
+ {
+  "note_id": "note_0146",
+  "text": "Clinic note. 75 year old man presenting for follow-up. Presents with lower extremity edema. No fever. No pneumonia. Past medical history includes asthma, gastroesophageal reflux disease, History of myocardial infarction in 2012, stented. Family history: Mother with hypertension and stroke. Allergies: codeine (nausea). Smokes one pack per day. Current medications are omeprazole 20mg before breakfast. Most recent A1c 8.9%. Spirometry pending; possible early COPD. We discontinued gabapentin 300 mg today because of daytime sedation. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0147",
+  "text": "PROGRESS NOTE\n\nSubjective: 45 year old man presenting for follow-up. Reports no shortness of breath.\n\nPast Medical History: HLD; CHF; chronic kidney disease; Hospitalized for pneumonia in 2014, resolved.\nFamily History: Father had a myocardial infarction at age 60.\nAllergies: no known drug allergies.\nSocial History: Current smoker, about half a pack daily.\n\nMedications:\n- atorvastatin 20 mg at bedtime\n- gabapentin 300 mg TID\n- furosemide 20 mg each morning\n\nAssessment and Plan: Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0148",
+  "text": "Clinic note. 64 year old man presenting for follow-up. Endorses intermittent chest pain. Negative for leg swelling. Past medical history includes HTN, asthma, hypothyroidism, AF. Family history: Mother with type 2 diabetes. Allergies: penicillin (rash). No history of smoking. Current medications are metoprolol succinate 50 mg daily; amlodipine 10 mg daily; levothyroxine 100 mcg daily; gabapentin 600 mg TID; lisinopril 20mg once daily; apixaban 5 mg BID. Follow up in 30 days."
+ },
+ {
+  "note_id": "note_0149",
+  "text": "Clinic note. 77 year old man presenting for follow-up. Endorses intermittent leg swelling. Presents with palpitations. Denies pneumonia. Past medical history includes hypertension, CHF. Family history: Mother with hypertension and stroke. Allergies: codeine (nausea). No history of smoking. Current medications are amlodipine 10mg daily; lisinopril 20 mg once daily; gabapentin 300 mg three times daily. Return to clinic in 4 weeks."
+ }
+]

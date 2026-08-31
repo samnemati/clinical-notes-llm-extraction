@@ -1,0 +1,30 @@
+{
+ "descriptives": {
+  "gold": {
+   "heart_failure_prevalence": 0.347,
+   "diabetes_prevalence": 0.333,
+   "current_smoker_rate": 0.233,
+   "mean_active_meds": 2.93,
+   "med_stopped_rate": 0.44,
+   "mean_a1c_when_present": 8.54
+  },
+  "baseline": {
+   "heart_failure_prevalence": 0.347,
+   "diabetes_prevalence": 0.333,
+   "current_smoker_rate": 0.233,
+   "mean_active_meds": 2.93,
+   "med_stopped_rate": 0.0,
+   "mean_a1c_when_present": 8.54
+  }
+ },
+ "readmission_model": {
+  "gold": {
+   "auc_mean": 0.753,
+   "auc_sd": 0.057
+  },
+  "baseline": {
+   "auc_mean": 0.72,
+   "auc_sd": 0.043
+  }
+ }
+}

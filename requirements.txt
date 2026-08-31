@@ -1,0 +1,7 @@
+anthropic>=1.2
+pydantic>=2
+numpy
+pandas
+scikit-learn
+matplotlib
+pytest
